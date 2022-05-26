@@ -1,3 +1,3 @@
-# IndhuRepository
+#sweetyrepository
 
 this is indhu project
